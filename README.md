@@ -20,6 +20,7 @@ cd ~
 unzip -o retropie-web.zip
 cd retropie-web
 sudo bash install.sh
+sudo reboot
 ```
 This project was created using Artificial Intelligence
 
