@@ -21,23 +21,6 @@ unzip -o retropie-web.zip
 cd retropie-web
 sudo bash install.sh
 ```
+This project was created using Artificial Intelligence
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-This project was created using Artificial Intelligence 
+If you want an update to my project, please leave a comment and I will get to it as soon as I can
